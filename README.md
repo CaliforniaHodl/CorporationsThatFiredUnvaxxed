@@ -52,3 +52,4 @@ an extensive list of companies that either **Fired** or **added restrictions** t
 |  Walmart                        | [Sauce](https://apnews.com/article/business-health-coronavirus-pandemic-bdbba6610c582a3c03b329432a484126).    |       July 30, 2021 |
 |  Walt Disney                     | [Sauce](https://apnews.com/article/coronavirus-pandemic-vaccine-Walt-Disney-7818ca8d211b4f3d969f6bfcf592b7e2).    |       July 30, 2021|
 |  The Washington Post              | [Sauce](https://www.nytimes.com/2021/07/27/business/media/washington-post-vaccines.html).    |       07 27,2021     |
+| THE US Army | [Sauce](https://www.reuters.com/world/us/us-army-discharge-soldiers-who-refuse-covid-19-vaccine-2022-02-02/).  | February 2, 2022|
